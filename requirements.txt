@@ -6,3 +6,4 @@ segmentation-models-pytorch
 scikit-learn
 numpy
 ipykernel
+matplotlib
